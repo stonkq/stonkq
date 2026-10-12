@@ -69,7 +69,7 @@ export function MobileNav() {
                 }}
               />
               <span
-                className="block h-px bg-black/60 transition-all duration-300"
+                className="block h-px bg-white/80 transition-all duration-300"
                 style={{
                   width: "18px",
                   opacity: open ? 0 : 1,
