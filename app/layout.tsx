@@ -5,20 +5,20 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Stonk Quantum — Market Intelligence Beyond the Market',
-  description: 'Quantum-inspired AI agents for stocks, crypto, and onchain market intelligence.',
-  keywords: ['Stonk Quantum', 'AI market intelligence', 'stocks', 'crypto', 'onchain analytics'],
+  description: 'Quantum-inspired QI agents for stocks, crypto, and onchain market intelligence.',
+  keywords: ['Stonk Quantum', 'QI market intelligence', 'stocks', 'crypto', 'onchain analytics'],
   authors: [{ name: 'Stonk Quantum' }],
   openGraph: {
-    title: 'Agentic — Autonomous AI Agents at Scale',
-    description: 'Deploy autonomous AI agents that think, act, and execute across any workflow.',
+title: 'Stonk Quantum — Autonomous QI Agents at Scale',
+  description: 'Deploy autonomous QI agents that think, act, and execute across any workflow.',
     type: 'website',
     url: 'https://agentic.ai',
     siteName: 'Agentic',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Agentic — Autonomous AI Agents at Scale',
-    description: 'Deploy autonomous AI agents that think, act, and execute across any workflow.',
+title: 'Stonk Quantum — Autonomous QI Agents at Scale',
+  description: 'Deploy autonomous QI agents that think, act, and execute across any workflow.',
   },
   icons: {
     icon: [

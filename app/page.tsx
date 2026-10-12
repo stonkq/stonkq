@@ -149,7 +149,7 @@ export default function AgenticPage() {
               transition: "opacity 1s cubic-bezier(0.16,1,0.3,1) 0ms, filter 1s cubic-bezier(0.16,1,0.3,1) 0ms, transform 1s cubic-bezier(0.16,1,0.3,1) 0ms",
             }}
           >
-            Build &amp;<br />orchestrate AI<br />agents while<br />you sleep.
+            Build &amp;<br />orchestrate QI<br />agents while<br />you sleep.
           </h1>
 
           {/* 3 metrics — staggered after title */}
@@ -628,7 +628,7 @@ export default function AgenticPage() {
             Start building your<br />agent workforce.
           </h2>
           <p className="text-sm text-black/45 leading-relaxed mb-10">
-            Join thousands of teams deploying AI agents that work around the clock, across every timezone.
+            Join thousands of teams deploying QI agents that work around the clock, across every timezone.
           </p>
           {!submitted ? (
             <form
